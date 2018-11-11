@@ -1,0 +1,14 @@
+E:\Facultate\DNP\Session_10\Dotnetimals\bin\Debug\netcoreapp2.1\Dotnetimals.deps.json
+E:\Facultate\DNP\Session_10\Dotnetimals\bin\Debug\netcoreapp2.1\Dotnetimals.runtimeconfig.json
+E:\Facultate\DNP\Session_10\Dotnetimals\bin\Debug\netcoreapp2.1\Dotnetimals.runtimeconfig.dev.json
+E:\Facultate\DNP\Session_10\Dotnetimals\bin\Debug\netcoreapp2.1\Dotnetimals.dll
+E:\Facultate\DNP\Session_10\Dotnetimals\bin\Debug\netcoreapp2.1\Dotnetimals.pdb
+E:\Facultate\DNP\Session_10\Dotnetimals\obj\Debug\netcoreapp2.1\Dotnetimals.csprojAssemblyReference.cache
+E:\Facultate\DNP\Session_10\Dotnetimals\obj\Debug\netcoreapp2.1\Dotnetimals.csproj.CoreCompileInputs.cache
+E:\Facultate\DNP\Session_10\Dotnetimals\obj\Debug\netcoreapp2.1\Dotnetimals.RazorAssemblyInfo.cache
+E:\Facultate\DNP\Session_10\Dotnetimals\obj\Debug\netcoreapp2.1\Dotnetimals.RazorAssemblyInfo.cs
+E:\Facultate\DNP\Session_10\Dotnetimals\obj\Debug\netcoreapp2.1\Dotnetimals.AssemblyInfoInputs.cache
+E:\Facultate\DNP\Session_10\Dotnetimals\obj\Debug\netcoreapp2.1\Dotnetimals.AssemblyInfo.cs
+E:\Facultate\DNP\Session_10\Dotnetimals\obj\Debug\netcoreapp2.1\Dotnetimals.RazorTargetAssemblyInfo.cache
+E:\Facultate\DNP\Session_10\Dotnetimals\obj\Debug\netcoreapp2.1\Dotnetimals.dll
+E:\Facultate\DNP\Session_10\Dotnetimals\obj\Debug\netcoreapp2.1\Dotnetimals.pdb

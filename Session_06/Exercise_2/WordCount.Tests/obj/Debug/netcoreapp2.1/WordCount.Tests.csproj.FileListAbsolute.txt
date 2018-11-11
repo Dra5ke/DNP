@@ -1,0 +1,17 @@
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\bin\Debug\netcoreapp2.1\WordCount.Tests.deps.json
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\bin\Debug\netcoreapp2.1\WordCount.Tests.runtimeconfig.json
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\bin\Debug\netcoreapp2.1\WordCount.Tests.runtimeconfig.dev.json
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\bin\Debug\netcoreapp2.1\WordCount.Tests.dll
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\bin\Debug\netcoreapp2.1\WordCount.Tests.pdb
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\bin\Debug\netcoreapp2.1\WordCount.dll
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\bin\Debug\netcoreapp2.1\WordCount.pdb
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\obj\Debug\netcoreapp2.1\WordCount.Tests.csprojAssemblyReference.cache
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\obj\Debug\netcoreapp2.1\WordCount.Tests.csproj.CoreCompileInputs.cache
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\obj\Debug\netcoreapp2.1\WordCount.Tests.AssemblyInfoInputs.cache
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\obj\Debug\netcoreapp2.1\WordCount.Tests.AssemblyInfo.cs
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\obj\Debug\netcoreapp2.1\WordCount.Tests.csproj.CopyComplete
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\obj\Debug\netcoreapp2.1\WordCount.Tests.dll
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount.Tests\obj\Debug\netcoreapp2.1\WordCount.Tests.pdb

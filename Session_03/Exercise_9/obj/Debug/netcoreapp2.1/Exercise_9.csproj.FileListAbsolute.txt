@@ -1,0 +1,11 @@
+E:\Facultate\DNP\Session_03\Exercise_9\bin\Debug\netcoreapp2.1\Exercise_9.deps.json
+E:\Facultate\DNP\Session_03\Exercise_9\bin\Debug\netcoreapp2.1\Exercise_9.runtimeconfig.json
+E:\Facultate\DNP\Session_03\Exercise_9\bin\Debug\netcoreapp2.1\Exercise_9.runtimeconfig.dev.json
+E:\Facultate\DNP\Session_03\Exercise_9\bin\Debug\netcoreapp2.1\Exercise_9.dll
+E:\Facultate\DNP\Session_03\Exercise_9\bin\Debug\netcoreapp2.1\Exercise_9.pdb
+E:\Facultate\DNP\Session_03\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.csprojAssemblyReference.cache
+E:\Facultate\DNP\Session_03\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.csproj.CoreCompileInputs.cache
+E:\Facultate\DNP\Session_03\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.AssemblyInfoInputs.cache
+E:\Facultate\DNP\Session_03\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.AssemblyInfo.cs
+E:\Facultate\DNP\Session_03\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.dll
+E:\Facultate\DNP\Session_03\Exercise_9\obj\Debug\netcoreapp2.1\Exercise_9.pdb

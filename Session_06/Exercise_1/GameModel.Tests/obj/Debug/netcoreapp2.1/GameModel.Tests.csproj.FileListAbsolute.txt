@@ -1,0 +1,17 @@
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.Tests.deps.json
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.Tests.runtimeconfig.json
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.Tests.runtimeconfig.dev.json
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.Tests.dll
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.Tests.pdb
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.dll
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\bin\Debug\netcoreapp2.1\GameModel.pdb
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.csprojAssemblyReference.cache
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.csproj.CoreCompileInputs.cache
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.AssemblyInfoInputs.cache
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.AssemblyInfo.cs
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.csproj.CopyComplete
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.dll
+E:\Facultate\DNP\Session_06\Exercise_1\GameModel.Tests\obj\Debug\netcoreapp2.1\GameModel.Tests.pdb

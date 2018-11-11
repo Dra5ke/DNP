@@ -1,0 +1,11 @@
+E:\Facultate\DNP\MathLib\bin\Debug\netcoreapp2.1\MathLib.deps.json
+E:\Facultate\DNP\MathLib\bin\Debug\netcoreapp2.1\MathLib.runtimeconfig.json
+E:\Facultate\DNP\MathLib\bin\Debug\netcoreapp2.1\MathLib.runtimeconfig.dev.json
+E:\Facultate\DNP\MathLib\bin\Debug\netcoreapp2.1\MathLib.dll
+E:\Facultate\DNP\MathLib\bin\Debug\netcoreapp2.1\MathLib.pdb
+E:\Facultate\DNP\MathLib\obj\Debug\netcoreapp2.1\MathLib.csprojAssemblyReference.cache
+E:\Facultate\DNP\MathLib\obj\Debug\netcoreapp2.1\MathLib.csproj.CoreCompileInputs.cache
+E:\Facultate\DNP\MathLib\obj\Debug\netcoreapp2.1\MathLib.AssemblyInfoInputs.cache
+E:\Facultate\DNP\MathLib\obj\Debug\netcoreapp2.1\MathLib.AssemblyInfo.cs
+E:\Facultate\DNP\MathLib\obj\Debug\netcoreapp2.1\MathLib.dll
+E:\Facultate\DNP\MathLib\obj\Debug\netcoreapp2.1\MathLib.pdb

@@ -1,0 +1,9 @@
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount\obj\Debug\netstandard2.0\WordCount.csprojAssemblyReference.cache
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount\obj\Debug\netstandard2.0\WordCount.csproj.CoreCompileInputs.cache
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount\obj\Debug\netstandard2.0\WordCount.AssemblyInfoInputs.cache
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount\obj\Debug\netstandard2.0\WordCount.AssemblyInfo.cs
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount\bin\Debug\netstandard2.0\WordCount.deps.json
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount\bin\Debug\netstandard2.0\WordCount.dll
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount\bin\Debug\netstandard2.0\WordCount.pdb
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount\obj\Debug\netstandard2.0\WordCount.dll
+E:\Facultate\DNP\Session_06\Exercise_2\WordCount\obj\Debug\netstandard2.0\WordCount.pdb
