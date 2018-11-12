@@ -30,13 +30,22 @@ namespace Dotnetimals.Controllers
             return "cat";
         }
 
-        // // POST api/cats
-        // [HttpPost]
-        // public void Post([FromBody] string cat)
-        // {
-        // }
+        // POST api/cats
+        [HttpPost]
+        public IActionResult PostCat([FromBody] Cat cat)
+        {
+            if(!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
-        // // PUT api/cats/5
+            _context.AddCat(cat);
+            _context.SaveAll();
+
+            return CreatedAtAction("PostCat", new { id = cat.Id}, cat);
+        }
+
+        // PUT api/cats/5
         // [HttpPut("{id}")]
         // public void Put(int id, [FromBody] string cat)
         // {

@@ -17,7 +17,7 @@ namespace Dotnetimals
 
         public IEnumerable<Cat> GetAllCats()
         {
-            return _context.Cats.OrderBy(c => c.Name).ToList();
+            return _context.Cats.OrderBy(c => c.Id).ToList();
         }
 
         public IEnumerable<Cat> GetCatsByMaxPrice(decimal price)
@@ -28,6 +28,11 @@ namespace Dotnetimals
         public IQueryable<Cat> GetCatById(int Id)
         {
             return _context.Cats.Where(c => c.Id == Id);
+        }
+
+        public void AddCat(Cat cat)
+        {
+            _context.Cats.Add(cat);
         }
 
         public bool SaveAll()

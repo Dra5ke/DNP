@@ -28,7 +28,7 @@ namespace Dotnetimals
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddDbContext<CatContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddSingleton<DbRepository>();
+            services.AddScoped<DbRepository>();
             
         }
 

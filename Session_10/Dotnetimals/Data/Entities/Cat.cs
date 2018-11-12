@@ -11,7 +11,8 @@ namespace Dotnetimals
         [Required]
         public string Name { get; set; }
 
-        [RegularExpression(@"^[A-Z]+[a-zA-Z""'\s-]*$")]
+        [RegularExpression(@"^[A-Z]+[a-zA-Z""'\s-]*$", ErrorMessage = "Use only letters please")]
+        [DataType(DataType.Text)]
         public string Colour { get; set; }
 
         [Range(0,100)]
